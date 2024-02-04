@@ -1,0 +1,33 @@
+.pp{
+    font-size: 30px;
+    text-align: center;
+}
+.but{
+    background-color: green;
+    color: white;
+    height: 25px;
+    width: 150px;
+    font-size: 20px;
+    border: 0px solid transparent;
+    border-radius: 10px;
+    margin: 10px;
+}
+.but1{
+    background-color: red;
+    color: white;
+    height: 25px;
+    width: 150px;
+    font-size: 20px;
+    border: 0px solid transparent;
+    border-radius: 10px;
+    margin: 10px;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    display: flex;
+}
